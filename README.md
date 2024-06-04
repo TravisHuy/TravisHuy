@@ -8,7 +8,7 @@
 # Summary
 
 *Here are my recent focused hard skills over the past few years, built upon my years of study and accumulated experience:*</br>
-  👉 **Back-end**: Competent in **Java** with the Spring Framework.</br>
+  👉 **Back-end**: Competent in **Java** with the Spring Framework, **C#** with the ASP.NET Core.</br>
   👉 **Front-end**: Basic understanding of **React**, utilizing **TypeScript**, **JavaScrip**t, and the **Next.js** framework</br>
   👉 **Mobile-Development**: Proficient in **Kotlin** and **Java** for native Android development.</br>
   👉 **Libraries**: Seasoned in **Firebase**.</br>
