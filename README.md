@@ -3,7 +3,7 @@
 <h3 align="center">Mobile Application Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TravisHuy&color=blueviolet&style=flat">
-  <a href="https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570"><img src="https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg" alt="Total time coded since Jul 23 2020" /></a>
+  <a href="https://wakatime.com/@TravisHuy"><img src="https://wakatime.com/badge/user/5fecc831-2aaf-48a0-a1fa-b8e2ae396a07.svg" alt="Total time coded since June 4 2024" /></a>
 </p>
 # Summary
 
