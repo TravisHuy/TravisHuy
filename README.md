@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nhat Huy</h1>
+## 📫 How to reach me: 
+![TravisHuy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TravisHuy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 
 <!--
 **TravisHuy/TravisHuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
